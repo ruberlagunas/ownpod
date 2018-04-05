@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RubaPod_Example' do
+  pod 'RubaPod', :path => '../'
+
+  target 'RubaPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
