@@ -22,7 +22,7 @@ pod 'RubaPod'
 
 ## Author
 
-Ruber, ruber.lagunas@kroger.com
+Ruber, rlagunas92@gmail.com
 
 ## License
 

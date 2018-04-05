@@ -1,18 +1,18 @@
 {
   "name": "RubaPod",
   "version": "0.1.0",
-  "summary": "A short description of RubaPod.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Ruber/RubaPod",
+  "summary": "RubaPod is an example about how to create your own pod",
+  "description": "This cocoapod is only to create my first pod, I will remove it soon",
+  "homepage": "https://github.com/ruberlagunas/ownpod.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Ruber": "ruber.lagunas@kroger.com"
+    "Ruber": "rlagunas92@gmail.com"
   },
   "source": {
-    "git": "https://github.com/Ruber/RubaPod.git",
+    "git": "https://github.com/ruberlagunas/ownpod.git",
     "tag": "0.1.0"
   },
   "platforms": {
