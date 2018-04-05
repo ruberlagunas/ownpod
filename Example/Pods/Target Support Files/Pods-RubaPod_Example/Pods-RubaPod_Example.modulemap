@@ -1,0 +1,6 @@
+framework module Pods_RubaPod_Example {
+  umbrella header "Pods-RubaPod_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

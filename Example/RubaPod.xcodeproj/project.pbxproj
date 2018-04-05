@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		037CEFE20567462397BB3FEE /* RubaPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RubaPod.podspec; path = ../RubaPod.podspec; sourceTree = "<group>"; };
+		037CEFE20567462397BB3FEE /* RubaPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RubaPod.podspec; path = ../RubaPod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		0C2703D7513E751847AF68A1 /* Pods-RubaPod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RubaPod_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RubaPod_Example/Pods-RubaPod_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		35EA89495E6AE5DCA45709AA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		35EA89495E6AE5DCA45709AA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		54A56920A1D2CDEBC63E2721 /* Pods_RubaPod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RubaPod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* RubaPod_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RubaPod_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		821B2E6761E6B4D9F9A85C73 /* Pods-RubaPod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RubaPod_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RubaPod_Tests/Pods-RubaPod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		92621D3EA577571A2C7691D9 /* Pods_RubaPod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RubaPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A07A5D77BABF521107F7A228 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A07A5D77BABF521107F7A228 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B6F9FD4950475C12C51449E6 /* Pods-RubaPod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RubaPod_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-RubaPod_Example/Pods-RubaPod_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F83ADF24E1E1A804F406A8F6 /* Pods-RubaPod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RubaPod_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RubaPod_Tests/Pods-RubaPod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

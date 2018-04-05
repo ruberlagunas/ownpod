@@ -1,0 +1,6 @@
+framework module RubaPod {
+  umbrella header "RubaPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

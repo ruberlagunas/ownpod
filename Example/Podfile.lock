@@ -1,0 +1,16 @@
+PODS:
+  - RubaPod (0.1.0)
+
+DEPENDENCIES:
+  - RubaPod (from `../`)
+
+EXTERNAL SOURCES:
+  RubaPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RubaPod: f342ab38c8ab1e823925b707fb677162287bac9d
+
+PODFILE CHECKSUM: 79447b456afabaf712c68b36f6b4ae4618c27464
+
+COCOAPODS: 1.4.0
