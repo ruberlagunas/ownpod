@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RubaPod'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'RubaPod is an example about how to create your own pod'
   s.swift_version    = '3.2'
 
