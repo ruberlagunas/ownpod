@@ -21,8 +21,8 @@ public class RubaPod: UILabel {
         layer.removeAllAnimations()
     }
     
-    public func helloTeam() {
-        print("Hello team my name is RubaPod")
+    public func helloTeam() -> String {
+        return "Hell0! my name is RubaPod"
     }
     
     public func goodbye(devName: String) -> String {
