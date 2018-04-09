@@ -9,7 +9,8 @@ import UIKit
 
 public class RubaPod: UILabel {
     public func startBlinking() {
-        let options : UIViewAnimationOptions = .Repeat | .Autoreverse
+        var options : UIViewAnimationOptions = .repeat
+        options.insert(.autoreverse)
         UIView.animate(withDuration: 0.25, delay:0.0, options:options, animations: {
             self.alpha = 0
         }, completion: nil)
