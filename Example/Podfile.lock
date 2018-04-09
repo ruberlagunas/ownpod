@@ -1,5 +1,5 @@
 PODS:
-  - RubaPod (0.1.0)
+  - RubaPod (0.2.0)
 
 DEPENDENCIES:
   - RubaPod (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  RubaPod: 6c9e721f890a3a5b94b407202f22410fef6aec23
+  RubaPod: 94a9a81826c0b13cf47cdbf751389880158399a9
 
 PODFILE CHECKSUM: 79447b456afabaf712c68b36f6b4ae4618c27464
 

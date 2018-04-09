@@ -1,7 +1,8 @@
 {
   "name": "RubaPod",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "RubaPod is an example about how to create your own pod",
+  "swift_version": "3.2",
   "description": "This cocoapod is only to create my first pod, I will remove it soon",
   "homepage": "https://github.com/ruberlagunas/ownpod.git",
   "license": {
@@ -13,7 +14,7 @@
   },
   "source": {
     "git": "https://github.com/ruberlagunas/ownpod.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"

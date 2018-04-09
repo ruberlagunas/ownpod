@@ -7,11 +7,10 @@
 //
 
 import UIKit
-import RubaPod
 
 class ViewController: UIViewController {
     
-    let yourRubaLabel = RubaPod(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
+    //let yourRubaLabel = RubaPod(frame: CGRect(x: 0, y: 0, width: 200, height: 21))
     
     override func viewDidLoad() {
         super.viewDidLoad()
